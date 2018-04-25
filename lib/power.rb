@@ -6,7 +6,7 @@
 #   power(5,2)
 #   # => 25
 #
-# Returns the smallest Integer.
+# Returns the powered integer.
 def power(num1,num2)
     i = 1
     output = 1
