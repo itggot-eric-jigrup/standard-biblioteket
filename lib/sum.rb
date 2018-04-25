@@ -1,3 +1,11 @@
+# arr  - The Array to summerize.
+#
+# Examples
+#
+#   sum([1,2,3,4])
+#   # => 10
+#
+# Returns sum in Integer.
 def sum(arr)
     i = 0
     j = 0
