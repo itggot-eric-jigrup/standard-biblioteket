@@ -1,3 +1,12 @@
+# num1  - The Integer to multiply.
+# num2  - The Integer for the power value.
+#
+# Examples
+#
+#   power(5,2)
+#   # => 25
+#
+# Returns the smallest Integer.
 def power(num1,num2)
     i = 1
     output = 1
