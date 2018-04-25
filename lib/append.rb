@@ -3,7 +3,7 @@
 #
 # Examples
 #
-#   minoftwo([3], 4)
+#   append([3], 4)
 #   # => [3,4]
 #
 # Returns the Array.

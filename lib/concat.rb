@@ -3,7 +3,7 @@
 #
 # Examples
 #
-#   minoftwo([1,3],[4,2])
+#   concat([1,3],[4,2])
 #   # => [1,3,4,2]
 #
 # Returns the Array.

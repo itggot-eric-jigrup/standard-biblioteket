@@ -3,7 +3,7 @@
 #
 # Examples
 #
-#   minoftwo(4,[3,2])
+#   prepend(4,[3,2])
 #   # => [4,3,2]
 #
 # Returns the Array.
