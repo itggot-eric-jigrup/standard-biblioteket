@@ -1,4 +1,4 @@
-# num  - The Array to use.
+# arr  - The Array to use.
 #
 # Examples
 #
