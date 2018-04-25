@@ -2,7 +2,7 @@
 #
 # Examples
 #
-#   even(2)
+#   odd(2)
 #   # => "false"
 #
 # Returns the corresponding string.

@@ -2,7 +2,7 @@
 #
 # Examples
 #
-#   even(-2)
+#   absolute(-2)
 #   # => 2
 #
 # Returns the absolute Integer.
