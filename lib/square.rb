@@ -1,4 +1,4 @@
-# text  - The Integer to Square.
+# num  - The Integer to Square.
 #
 # Examples
 #
