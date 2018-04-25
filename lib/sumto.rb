@@ -1,3 +1,11 @@
+# num  - The Integer to summerize.
+#
+# Examples
+#
+#   minoftwo(5)
+#   # => 15
+#
+# Returns the summed Integer.
 def sumto(num)
     i = 0
     output = 0
