@@ -1,3 +1,11 @@
+# num  - The Integer to Factor.
+#
+# Examples
+#
+#   factorial(5)
+#   # => 120
+#
+# Returns the Factored Integer.
 def factorial(num)
     i = 1
     output = 1

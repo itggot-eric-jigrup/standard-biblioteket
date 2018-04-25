@@ -2,7 +2,7 @@
 #
 # Examples
 #
-#   minoftwo(5)
+#   sumto(5)
 #   # => 15
 #
 # Returns the summed Integer.
