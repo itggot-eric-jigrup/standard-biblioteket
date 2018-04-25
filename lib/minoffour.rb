@@ -5,7 +5,7 @@
 #
 # Examples
 #
-#   minoftwo(5,20,100,10)
+#   minoffour(5,20,100,10)
 #   # => 5
 #
 # Returns the smallest Integer.

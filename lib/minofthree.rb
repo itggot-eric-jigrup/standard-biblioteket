@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   minoftwo(20,100,10)
+#   minofthree(20,100,10)
 #   # => 10
 #
 # Returns the smallest Integer.
