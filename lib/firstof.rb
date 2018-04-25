@@ -2,7 +2,7 @@
 #
 # Examples
 #
-#   minoftwo([3,2,1,4])
+#   firstof([3,2,1,4])
 #   # => [3]
 #
 # Returns the first Value.
