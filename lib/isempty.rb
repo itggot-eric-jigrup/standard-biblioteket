@@ -2,7 +2,7 @@
 #
 # Examples
 #
-#   sum("grillkorv")
+#   isempty("grillkorv")
 #   # => false
 #
 # Returns boolean value.
